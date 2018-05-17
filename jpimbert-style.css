@@ -1,15 +1,18 @@
-body { 
-background:url("../images/body_bg.png") repeat-x scroll center top #fff; 
-background-color:#DDFDFF; 
-}
-
 html { 
 margin:auto; 
 left:-480px; 
 width:960px;  
 font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+background:url("../images/body_bg.png") repeat-x scroll center top #fff; 
+background-color:#DDFDFF; 
 }
 
-p {
-color: green;
+#photo { 
+position:absolute;
+top:20px;
+margin-left:764px;
+width:190px; 
+height:260px; 
+border:outset; 
+border-color:#0CC; 
 }
