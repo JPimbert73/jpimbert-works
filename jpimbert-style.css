@@ -1,5 +1,13 @@
-body {
-background-color: coral;
+body { 
+background:url("../images/body_bg.png") repeat-x scroll center top #fff; 
+background-color:#DDFDFF; 
+}
+
+html { 
+margin:auto; 
+left:-480px; 
+width:960px;  
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 p {
