@@ -7,6 +7,22 @@ background:url("./images/body_bg.png") repeat-x scroll center top #fff;
 background-color:#DDFDFF; 
 }
 
+header { 
+width:730px; 
+height:260px; 
+margin:20px 0 20px 0; 
+background-color:#066; 
+border:outset; 
+font-size:17px; 
+}
+
+header li { 
+list-style-type:none; 
+margin-left:30px; 
+line-height:1.8; 
+color:#FFF; 
+}
+
 #photo { 
 position:absolute;
 top:20px;
