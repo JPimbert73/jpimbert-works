@@ -55,6 +55,7 @@ font-size:13px;
 article p {
 padding: 0 40px 0 40px;
 text-align: justify;
+line-height: 1.2em; 
 }
 
 footer {
