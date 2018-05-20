@@ -38,6 +38,17 @@ border:outset;
 border-color:#0CC; 
 }
 
+body {
+height:320px;
+width:954px;
+margin:1130px 0 20px 0;
+background-color:#066; 
+color:#FFF;
+border:outset; 
+font-weight:bold;
+font-size:13px;
+} 
+
 /* couleur des liens */
 a { color:#FC6; }
 /* couleur des liens au survol de la souris */
