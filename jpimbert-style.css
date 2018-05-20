@@ -38,18 +38,26 @@ border:outset;
 border-color:#0CC; 
 }
 
+/* couleur des liens */
+a { color:#FC6; }
+/* couleur des liens au survol de la souris */
+a:hover { color:#F60; }
+/* suppression du soulignage des liens et des pointillés */
+a, a:hover { 
+text-decoration:none; 
+outline:0; 
+}
+img { border:none; }
+
+/* styles appliqués aux titres */
 h1, h2, h3 { 
 color:#FC6; 
 font-family:Verdana, Geneva, sans-serif; 
 }
-
 h1 { 
 font-size:24px; 
 padding-left:70px;
 }
-
 h2 { font-size:18px; }
-
 h3 { font-size:14px; }
-
 h2, h3 { line-height:1.3; }
