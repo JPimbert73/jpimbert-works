@@ -72,7 +72,12 @@ color: #FFF;
 font-weight: bold;
 font-size: 13px;
 } 
-  
+
+footer p {
+padding-left: 60px;
+font-size: 14px;
+}
+
 /* couleur des liens */
 a { color:#FC6; }
 /* couleur des liens au survol de la souris */
