@@ -45,7 +45,8 @@ border-color:#0CC;
 div {
 height:320px;
 width:954px;
-margin:1130px 0 20px 0;
+/*margin:1130px 0 20px 0;*/
+  margin:430px 0 20px 0;
 background-color:#066; 
 color:#FFF;
 border:outset; 
