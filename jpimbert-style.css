@@ -44,15 +44,15 @@ border-color:#0CC;
 height:320px;
 width:954px;
 /*margin:1130px 0 20px 0;*/
-margin:0 0 20px 0;
-background-color:#066; 
-color:#FFF;
-border:outset; 
-font-weight:bold;
-font-size:13px;
+margin: 0 0 20px 0;
+background-color: #066; 
+color: #FFF;
+border: outset; 
+font-weight: bold;
+font-size: 13px;
 }
 
-article p, aticle h2 {
+article p, article ul, article h2 {
 padding: 0 60px 0 60px;
 text-align: justify;
 line-height: 1.2em; 
