@@ -51,7 +51,17 @@ border:outset;
 font-weight:bold;
 font-size:13px;
   
-
+footer {
+height:320px;
+width:954px;
+margin:0 0 20px 0;
+background-color:#066; 
+color:#FFF;
+border:outset; 
+font-weight:bold;
+font-size:13px;
+} 
+  
 border-color:#0CC; 
 } 
 
