@@ -45,7 +45,7 @@ height:320px;
 width:954px;
 /*margin:1130px 0 20px 0;*/
 margin: 0 0 20px 0;
-padding: 40px 60px 40px 60px;
+padding: 30px 0 30px 0;
 background-color: #066; 
 color: #FFF;
  
@@ -54,13 +54,13 @@ font-size: 13px;
 }
 
 article p {
-/*padding: 0 60px 0 60px;*/
+padding: 0 60px 0 60px;
 text-align: justify;
 line-height: 1.2em; 
 }
 
 article ul {
-/*padding: 0 70px 0 70px;*/
+padding: 0 70px 0 70px;
 line-height: 1.2em; 
 }
 
