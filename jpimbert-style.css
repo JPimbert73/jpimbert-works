@@ -35,7 +35,7 @@ border:outset;
 border-color:#0CC; 
 }
 
-header, #photo { 
+header, #photo, #center, footer { 
 border:outset; 
 border-color:#0CC; 
 }
@@ -47,7 +47,7 @@ width:954px;
 margin: 0 0 20px 0;
 background-color: #066; 
 color: #FFF;
-border: outset; 
+ 
 font-weight: bold;
 font-size: 13px;
 }
@@ -69,7 +69,7 @@ width:954px;
 margin:0 0 20px 0;
 background-color:#066; 
 color:#FFF;
-border:outset; 
+
 font-weight:bold;
 font-size:13px;
 } 
