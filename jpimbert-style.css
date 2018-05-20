@@ -13,7 +13,7 @@ width:730px;
 height:260px; 
 margin:20px 0 20px 0; 
 background-color:#066; 
-border:outset; 
+
 font-size:17px; 
 }
 
@@ -31,7 +31,7 @@ top:20px;
 margin-left:764px;
 width:190px; 
 height:260px; 
-border:outset; 
+
 border-color:#0CC; 
 }
 
@@ -58,7 +58,7 @@ text-align: justify;
 line-height: 1.2em; 
 }
 
-article ul, article li {
+article ul {
 padding: 0 70px 0 70px;
 line-height: 1.2em; 
 }
