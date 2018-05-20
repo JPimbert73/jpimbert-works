@@ -63,9 +63,9 @@ font-weight:bold;
 font-size:13px;
 } 
   
-div, footer {
+/*div, footer {
 border-color:#0CC; 
-} 
+}*/
 
 /* couleur des liens */
 a { color:#FC6; }
