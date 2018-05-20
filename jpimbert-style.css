@@ -58,9 +58,8 @@ text-align: justify;
 line-height: 1.2em; 
 }
 
-article  ul {
+article ul, article li {
 padding: 0 70px 0 70px;
-
 line-height: 1.2em; 
 }
 
