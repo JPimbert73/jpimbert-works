@@ -37,3 +37,19 @@ header, #photo {
 border:outset; 
 border-color:#0CC; 
 }
+
+h1, h2, h3 { 
+color:#FC6; 
+font-family:Verdana, Geneva, sans-serif; 
+}
+
+h1 { 
+font-size:24px; 
+padding-left:70px;
+}
+
+h2 { font-size:18px; }
+
+h3 { font-size:14px; }
+
+h2, h3 { line-height:1.3; }
