@@ -32,3 +32,8 @@ height:260px;
 border:outset; 
 border-color:#0CC; 
 }
+
+header, #photo { 
+border:outset; 
+border-color:#0CC; 
+}
