@@ -52,6 +52,10 @@ font-weight:bold;
 font-size:13px;
 }
 
+article p {
+margin: 0 40px 0 40px;
+}
+
 footer {
 height:320px;
 width:954px;
