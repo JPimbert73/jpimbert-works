@@ -75,14 +75,14 @@ font-size: 13px;
 
 footer p {
 position: relative;
-width:180px; 
+width: 120px; 
 padding-right: 120px; 
 text-align: left;
 }
 
 footer img {
 position: absolute;
-left: 60px;
+left: 180px;
 }
 
 /* couleur des liens */
