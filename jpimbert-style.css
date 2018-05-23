@@ -95,22 +95,22 @@ outline: 0;
 
 /* styles appliqués aux titres */
 h1, h2 {
-/*padding: 0 60px 0 60px;*/
+padding: 0 60px 0 60px;
 color: #FC6; 
 font-family: Verdana, Geneva, sans-serif; 
 }
 
 h1 { 
-padding: 0 60px 0 130px;
-font-size:24px; 
+/*padding: 0 60px 0 130px;*/
+font-size: 24px; 
 }
 
 h2 { 
-padding: 0 60px 0 60px;
-font-size:18px; 
+/*padding: 0 60px 0 60px;*/
+font-size: 18px; 
 }
 
-img { border:none; }
+/*img { border: none; }*/
 
 #retour_haut {
 position: center;
