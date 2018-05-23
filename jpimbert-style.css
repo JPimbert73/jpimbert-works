@@ -82,7 +82,7 @@ text-align: left;
 
 footer img {
 position: absolute;
-margin-left: 600px;
+margin: 0 0 -20px 460px;
 }
 
 /* couleur des liens */
