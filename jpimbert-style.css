@@ -17,7 +17,7 @@ font-size: 17px;
 
 header li { 
 list-style-type: none; 
-margin-left: 30px; 
+/*margin-left: 30px;*/
 line-height: 1.8em; 
 color: #FFF; 
 }
