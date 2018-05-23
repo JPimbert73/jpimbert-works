@@ -77,13 +77,13 @@ footer p {
 position: relative;
 width: 120px;
 padding-right: 120px;
-padding-top: 0;
+padding-top: 10px;
 text-align: left;
 }
 
 footer img {
 position: absolute;
-margin: -48px 0 0 144px;
+margin: -36px 0 0 160px;
 }
 
 /* couleur des liens */
