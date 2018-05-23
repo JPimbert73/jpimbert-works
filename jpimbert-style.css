@@ -76,8 +76,10 @@ font-size: 13px;
 footer p {
 padding-left: 60px;
 font-size: 14px;
-padding-top: 80px;
+
 }
+
+footer img {}
 
 /* couleur des liens */
 a { color:#FC6; }
