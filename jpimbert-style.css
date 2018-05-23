@@ -75,8 +75,8 @@ font-size: 13px;
 
 footer p {
 position: relative;
-/*width: 120px; 
-padding-right: 120px;*/
+width: 120px;
+padding-right: 120px;
 padding-top: 20px;
 text-align: left;
 }
