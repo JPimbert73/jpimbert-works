@@ -74,7 +74,8 @@ font-size: 13px;
 } 
 
 footer img {
-padding-top: -20px;
+position: absolute;
+padding-left: 60px;
 }
 
 /* couleur des liens */
@@ -105,11 +106,11 @@ padding: 0 60px 0 60px;
 font-size:18px; 
 }
 
-h3 { 
+/*h3 { 
 padding-left: 60px;
 font-size:14px; 
 }
-/*h2, h3 { line-height:1.3; }*/
+h2, h3 { line-height:1.3; }*/
 
 img { border:none; }
 
