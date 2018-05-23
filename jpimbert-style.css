@@ -73,9 +73,16 @@ font-weight: bold;
 font-size: 13px;
 } 
 
+footer p {
+position: relative;
+width:180px; 
+padding-right: 120px; 
+text-align: left;
+}
+
 footer img {
 position: absolute;
-padding-left: 60px;
+left: 60px;
 }
 
 /* couleur des liens */
