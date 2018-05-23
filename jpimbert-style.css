@@ -74,8 +74,9 @@ font-size: 13px;
 } 
 
 footer p {
-padding-left: 60px;
+padding: -10px 0 0 60px;
 font-size: 14px;
+ 
 }
 
 /* couleur des liens */
