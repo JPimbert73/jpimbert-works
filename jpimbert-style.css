@@ -11,7 +11,6 @@ header {
 width: 730px;
 height: 260px; 
 margin: 20px 0 20px 0; 
-background-color: #066; 
 font-size: 17px; 
 }
 
@@ -35,12 +34,15 @@ border: outset;
 border-color: #0CC; 
 }
 
+header, section, footer {
+background-color: #066; 
+}
+
 section {
 height: 850px;
 width: 954px;
 margin: 0 0 20px 0;
 padding: 30px 0 30px 0;
-background-color: #066; 
 color: #FFF;
 font-weight: bold;
 font-size: 13px;
@@ -62,7 +64,6 @@ height: 120px;
 width: 954px;
 margin: 0 0 20px 0;
 padding: 30px 0 30px 0;
-background-color: #066; 
 color: #FFF;
 font-weight: bold;
 font-size: 13px;
