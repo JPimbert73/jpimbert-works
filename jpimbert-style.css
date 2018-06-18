@@ -71,9 +71,9 @@ font-size: 13px;
 
 nav {
 position: relative;
-width: 180px;
+/*width: 180px;*/
 /*padding-left: 620px;*/
-margin-left: 400px;
+margin-left: 500px;
 /*padding-right: 60px;*/
 margin-top: -30px;
 /*text-align: right;*/
