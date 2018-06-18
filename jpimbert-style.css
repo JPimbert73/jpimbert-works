@@ -60,7 +60,7 @@ line-height: 1.2em;
 }
 
 footer {
-height: 120px;
+height: 80px;
 width: 954px;
 margin: 0 0 20px 0;
 padding: 30px 0 30px 0;
@@ -70,21 +70,12 @@ font-size: 13px;
 } 
 
 nav {
-/*float: left;*/
 display: flex;
 flex-direction: row;
 position: relative;
-/*width: 180px;*/
-/*padding-left: 620px;*/
-margin-left: 600px;
-/*padding-right: 60px;*/
-margin-top: -40px;
+margin-left: 700px;
+margin-top: -42px;
 }
-
-/*footer img {
-position: absolute;
-margin: -10px 40px 0 40px;
-}*/
 
 /* couleur des liens */
 a { color: #FC6; }
