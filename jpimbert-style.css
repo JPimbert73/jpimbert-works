@@ -70,6 +70,7 @@ font-size: 13px;
 } 
 
 nav {
+display: inline-block;
 position: relative;
 /*width: 180px;*/
 /*padding-left: 620px;*/
